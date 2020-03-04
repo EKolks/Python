@@ -15,4 +15,4 @@ r = requests.get('http://kolks.nl')
 print(r.status_code)
 
 name = input ("your name")
-print ("Hello Hello", name)
+print ("Hello Hello", name) 
